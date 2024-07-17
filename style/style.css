@@ -1,0 +1,14 @@
+p{
+  background-color: green;
+  font: 30px bold;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.button-1 {
+  background-color: black;
+  color: white;
+  padding: 12px 0;
+  
+}
